@@ -1,7 +1,7 @@
 import requests
 
 url="https://www.googleapis.com/customsearch/v1"
-# url="https://www.googleapis.com/customsearch/v1?key=AIzaSyB8AyJTtX-QuYoJj4p4l6XenwxtNdBi7gI&cx=c49d69c0e30314410&q=Model Context Protocol MCP"
+# url="https://www.googleapis.com/customsearch/v1?key=.......&q=Model Context Protocol MCP"
 
 
 params = {
